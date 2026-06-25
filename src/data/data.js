@@ -101,7 +101,7 @@ const data = {
     title: "Pizza Sipariş Uygulaması",
     description: "React ile geliştirilmiş, kullanıcıların özel pizza siparişi verebildiği web uygulaması.",
     tags: ["React", "CSS", "JavaScript"],
-    liveUrl: "#",
+    liveUrl: "https://fsweb-s8-challenge-pizza-eta.vercel.app/",
     sourceUrl: "https://github.com/EgeYesil/fsweb-s8-challenge-pizza",
   },
 ],
