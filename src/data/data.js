@@ -88,15 +88,23 @@ const data = {
     { id: 6, name: "Git", icon: "Gi" },
   ],
   projects: [
-    {
-      id: 1,
-      title: "Pizza Sipariş Uygulaması",
-      description: "React ile geliştirilmiş, kullanıcıların özel pizza siparişi verebildiği full stack bir web uygulaması.",
-      tags: ["React", "CSS", "JavaScript"],
-      liveUrl: "#",
-      sourceUrl: "https://github.com/EgeYesil/fsweb-s8-challenge-pizza",
-    },
-  ],
+  {
+    id: 1,
+    title: "Deck of Many Things",
+    description: "D&D temalı, 3D animasyonlar ve parçacık efektleriyle geliştirilmiş React Native kart çekme uygulaması.",
+    tags: ["React Native", "Expo", "Animations"],
+    liveUrl: "https://github.com/EgeYesil/Deck_Of_Many_Things",
+    sourceUrl: "https://github.com/EgeYesil/Deck_Of_Many_Things",
+  },
+  {
+    id: 2,
+    title: "Pizza Sipariş Uygulaması",
+    description: "React ile geliştirilmiş, kullanıcıların özel pizza siparişi verebildiği web uygulaması.",
+    tags: ["React", "CSS", "JavaScript"],
+    liveUrl: "#",
+    sourceUrl: "https://github.com/EgeYesil/fsweb-s8-challenge-pizza",
+  },
+],
   social: {
     github: "https://github.com/EgeYesil",
     linkedin: "https://www.linkedin.com/in/egeysl/",
