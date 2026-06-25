@@ -20,6 +20,7 @@ function App() {
         <Profile />
         <Projects />
         <Contact />
+        <Footer />
         <ToastContainer position="bottom-right" />
       </div>
     </div>
